@@ -1,0 +1,155 @@
+@charset "UTF-8";
+/*
+==========================================================================
+FILE: noscript.scss
+
+VERSION: 1.1.10 | DATE: 02/04/2026 
+
+DESCRIPTION: 
+Soon...
+
+AUTHOR: Nikolaos Theodoros Papadopoulos, Team Lead
+ΤEAM: BioMedical Engineering & Computing Team | University of Western Macedonia
+DATE: March 2026
+
+COPYRIGHTS:
+Copyright (c) 2026, Nikolaos Theodoros Papadopoulos. All rights reserved.
+Unauthorized redistribution, reproduction, or use of this code 
+without the express written consent of the creator is strictly prohibited.
+
+CONTACT: nthpapadopoulos@gmail.com
+==========================================================================
+*/
+/*
+==========================================================================
+FILE: _vars.scss
+
+VERSION: 1.1.10 | DATE: 02/04/2026 
+
+DESCRIPTION: 
+Soon...
+
+AUTHOR: Nikolaos Theodoros Papadopoulos, Team Lead
+ΤEAM: BioMedical Engineering & Computing Team | University of Western Macedonia
+DATE: March 2026
+
+COPYRIGHTS:
+Copyright (c) 2026, Nikolaos Theodoros Papadopoulos. All rights reserved.
+Unauthorized redistribution, reproduction, or use of this code 
+without the express written consent of the creator is strictly prohibited.
+
+CONTACT: nthpapadopoulos@gmail.com
+==========================================================================
+*/
+/*
+==========================================================================
+FILE: _functions.scss
+
+VERSION: 1.1.10 | DATE: 02/04/2026 
+
+DESCRIPTION: 
+Soon...
+
+AUTHOR: Nikolaos Theodoros Papadopoulos, Team Lead
+ΤEAM: BioMedical Engineering & Computing Team | University of Western Macedonia
+DATE: March 2026
+
+COPYRIGHTS:
+Copyright (c) 2026, Nikolaos Theodoros Papadopoulos. All rights reserved.
+Unauthorized redistribution, reproduction, or use of this code 
+without the express written consent of the creator is strictly prohibited.
+
+CONTACT: nthpapadopoulos@gmail.com
+==========================================================================
+*/
+/*
+==========================================================================
+FILE: _mixins.scss
+
+VERSION: 1.1.10 | DATE: 02/04/2026 
+
+DESCRIPTION: 
+Soon...
+
+AUTHOR: Nikolaos Theodoros Papadopoulos, Team Lead
+ΤEAM: BioMedical Engineering & Computing Team | University of Western Macedonia
+DATE: March 2026
+
+COPYRIGHTS:
+Copyright (c) 2026, Nikolaos Theodoros Papadopoulos. All rights reserved.
+Unauthorized redistribution, reproduction, or use of this code 
+without the express written consent of the creator is strictly prohibited.
+
+CONTACT: nthpapadopoulos@gmail.com
+==========================================================================
+*/
+/*
+==========================================================================
+FILE: _vendor.scss
+
+VERSION: 1.1.10 | DATE: 02/04/2026 
+
+DESCRIPTION: 
+Soon...
+
+AUTHOR: Nikolaos Theodoros Papadopoulos, Team Lead
+ΤEAM: BioMedical Engineering & Computing Team | University of Western Macedonia
+DATE: March 2026
+
+COPYRIGHTS:
+Copyright (c) 2026, Nikolaos Theodoros Papadopoulos. All rights reserved.
+Unauthorized redistribution, reproduction, or use of this code 
+without the express written consent of the creator is strictly prohibited.
+
+CONTACT: nthpapadopoulos@gmail.com
+==========================================================================
+*/
+/*
+==========================================================================
+FILE: _breakpoints.scss
+
+VERSION: 1.1.10 | DATE: 02/04/2026 
+
+DESCRIPTION: 
+Soon...
+
+AUTHOR: Nikolaos Theodoros Papadopoulos, Team Lead
+ΤEAM: BioMedical Engineering & Computing Team | University of Western Macedonia
+DATE: March 2026
+
+COPYRIGHTS:
+Copyright (c) 2026, Nikolaos Theodoros Papadopoulos. All rights reserved.
+Unauthorized redistribution, reproduction, or use of this code 
+without the express written consent of the creator is strictly prohibited.
+
+CONTACT: nthpapadopoulos@gmail.com
+==========================================================================
+*/
+/*
+==========================================================================
+FILE: _html-grid.scss
+
+VERSION: 1.1.10 | DATE: 02/04/2026 
+
+DESCRIPTION: 
+Soon...
+
+AUTHOR: Nikolaos Theodoros Papadopoulos, Team Lead
+ΤEAM: BioMedical Engineering & Computing Team | University of Western Macedonia
+DATE: March 2026
+
+COPYRIGHTS:
+Copyright (c) 2026, Nikolaos Theodoros Papadopoulos. All rights reserved.
+Unauthorized redistribution, reproduction, or use of this code 
+without the express written consent of the creator is strictly prohibited.
+
+CONTACT: nthpapadopoulos@gmail.com
+==========================================================================
+*/
+/* Loader */
+body.landing.is-preload:before {
+  display: none;
+}
+body.landing.is-preload:after {
+  display: none;
+}/*# sourceMappingURL=noscript.css.map */
